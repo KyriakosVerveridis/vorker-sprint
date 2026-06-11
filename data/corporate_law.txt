@@ -1,0 +1,29 @@
+CORPORATE LAW - SALE OF SHARES IN A LIMITED COMPANY (BOLAGSVERKET GUIDELINES)
+
+1. NATURE OF THE SALE
+A sale of shares does not mean that the actual limited company is terminated, but rather is a matter between the seller and buyer. It is not something that shall be decided by the General Meeting of Shareholders or the Board of Directors. However, the seller and buyer must take due consideration to the provisions in the Articles of Association and potential shareholder agreements.
+
+2. PREPARATION & DUE DILIGENCE
+- Determine the purpose: Is the business continued or closed?
+- Key checks: Are there multiple shareholders? Are there alternatives to a sale (e.g., liquidation, merger)?
+- Financial status: Is the equity less than half of the registered share capital? If so, liquidation rules apply. The buyer should check for debts, unpaid taxes, or business mortgages.
+- Board liability: Be aware of representative liability for taxes and social security.
+
+3. ARTICLES OF ASSOCIATION & AGREEMENTS
+- Articles of Association: May include provisions limiting share transfers, specifically: pre-emption, the right of first refusal (hembudsförbehåll), and consent.
+- Shareholder Agreements: May entail even greater restrictions and obligations than the Articles, including large penalties for breach of contract.
+
+4. PURCHASE AGREEMENT & CONTRACT NOTE
+- Purchase Agreement: Should cover price, transfer date, right to use company name, board/auditor changes, and breach of contract terms.
+- Contract Note: A mandatory, specially formatted receipt containing the shares concerned, the price, and signatures of both parties.
+
+5. SHARE REGISTER & OWNERSHIP
+- Share register: Must be updated and match share certificates. The Board of Directors is responsible for this.
+- If certificates are pledged (e.g., to a bank), the debt must usually be paid first to release them.
+
+6. REGISTRATION & POST-SALE FILINGS
+- Register changes: If a majority of shares is sold, the Board of Directors, address, and authorized signatories must be updated with the Swedish Companies Registration Office (Bolagsverket).
+- Beneficial owner: A sale may require reporting a new beneficial owner.
+- Taxes: Both seller and buyer must notify the Swedish Tax Agency (Skatteverket) for capital gains taxation and partner changes in closely held companies.
+
+SOURCE: Bolagsverket.se

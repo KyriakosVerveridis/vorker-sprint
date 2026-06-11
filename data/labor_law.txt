@@ -1,0 +1,29 @@
+Karensavdrag Rules and Calculation
+Definition:
+The karensavdrag is a one-time deduction equal to 20% of the employee's average weekly sick pay. Sick pay (sjuklön) is 80% of the employee's salary and benefits.
+
+Calculation Steps:
+
+Determine hourly sick pay: Hourly salary * 0.8.
+
+Determine average weekly sick pay: Average weekly working hours * Hourly sick pay.
+
+Calculate deduction: Average weekly sick pay * 0.2.
+
+Examples:
+
+Regular (40h/week, 110kr/h): Sick pay = 88kr/h. Weekly = 3,520kr. Deduction = 704kr.
+
+Part-time (32h/week, 150kr/h): Sick pay = 120kr/h. Weekly = 3,840kr. Deduction = 768kr.
+
+Irregular (30h/week, 110kr/h): Sick pay = 88kr/h. Weekly = 2,640kr. Deduction = 528kr.
+
+Key Regulations:
+
+The deduction amount is the same regardless of when the employee becomes ill.
+
+If an employee becomes ill mid-day, the deduction applies proportionally until the full karensavdrag amount is reached.
+
+Limited companies (aktiebolag): Owners are treated as employees.
+
+Sole traders (enskild firma/handelsbolag): Not affected by these rules.
