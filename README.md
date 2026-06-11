@@ -19,5 +19,10 @@ An AI Agent specialized in Swedish business law, designed to bridge the "Complia
    `adk web --port 8000`
 4. Open your browser and navigate to `http://localhost:8000` to interact with the agent.
 
-## Compliance Note
-The system relies strictly on official authoritative sources. In cases of ambiguity, the agent is instructed to direct the user to verksamt.se for official guidance.
+## Compliance & Data Sources
+This system is strictly grounded in authoritative Swedish documentation:
+- **Skatteverket:** Tax & fiscal guidelines.
+- **Bolagsverket:** Corporate law & registration requirements.
+- **verksamt.se:** Primary source for business procedures. 
+
+In cases of ambiguity, the agent is instructed to direct users to **verksamt.se** for official guidance.
