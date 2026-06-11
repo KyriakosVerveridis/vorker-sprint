@@ -1,0 +1,20 @@
+VAT GUIDELINES:
+
+[VAT RATES]:
+- Standard: 25%
+- Reduced: 12% and 6%
+- VAT-exempt: Some sales are exempt (check specific criteria).
+
+[REGISTRATION]:
+- Mandatory registration needed for most businesses.
+- Exemption: Possible if annual turnover is <= 120,000 SEK.
+
+[EU SALES & OSS]:
+- B2C (EU): Use One Stop Shop (OSS) e-service for reporting and paying VAT in the customer's country.
+- VAT-exempt sales: Possible for certain EU sales if requirements are met (e.g., SME scheme).
+
+[DEDUCTIONS]:
+- VAT deductions allowed for business-related entertainment expenses (negotiations/staff welfare).
+
+[SOURCES]:
+- Skatteverket (Official Swedish Tax Agency)
